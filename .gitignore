@@ -1,0 +1,9 @@
+node_modules/
+db/
+bundle/
+bundle.zip
+.env
+.envrc
+dist/
+build/
+package-lock.json
